@@ -1,4 +1,4 @@
-package com.juliano.helpdesk.services;
+package com.juliano.helpdesk.services.excepctions;
 
 public class ObjectNotFoundException extends RuntimeException{
 	private static final long serialVersionUID = 1L;
