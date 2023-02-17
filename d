@@ -1,0 +1,65 @@
+[33mcommit fd6b051acc7031d7656ec432d604a2fc9257d595[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: julianoborel <julianoborel@yahoo.com.br>
+Date:   Thu Feb 16 22:58:47 2023 -0300
+
+    Exceção para objeto não encontrado
+
+[33mcommit c7d431e116d0b3fd918c62aabc4c3d7194194b93[m
+Author: julianoborel <julianoborel@yahoo.com.br>
+Date:   Thu Feb 16 22:43:46 2023 -0300
+
+    Padrão DTO para Tecnico.
+
+[33mcommit 876d9212b5a5e3f7a11dfd8e1b48dd15003c68c6[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: julianoborel <julianoborel@yahoo.com.br>
+Date:   Thu Feb 16 20:22:34 2023 -0300
+
+    Endpoint findById para Tecnico
+
+[33mcommit 680a042919a3a954ff039b5e5aa501a4969adb2c[m
+Author: julianoborel <julianoborel@yahoo.com.br>
+Date:   Thu Feb 16 20:21:48 2023 -0300
+
+    Protegendo aplicação contra serialização
+
+[33mcommit baa1e5bcb21fc9a30bbe6a484e5b6cea4608106c[m
+Author: julianoborel <julianoborel@yahoo.com.br>
+Date:   Thu Feb 16 19:41:35 2023 -0300
+
+    Criação do perfil dev
+
+[33mcommit efc994e75bb8b84a73db92c465bfdc4be3da1e3f[m
+Author: julianoborel <julianoborel@yahoo.com.br>
+Date:   Thu Feb 16 18:57:29 2023 -0300
+
+    Criação do perfil de testes
+
+[33mcommit cf4d8eb7161be544a523453f14065fe382f0e1e2[m
+Author: julianoborel <julianoborel@yahoo.com.br>
+Date:   Thu Feb 16 15:31:33 2023 -0300
+
+    Repositories criados e carga inicial adicionada
+
+[33mcommit 91c5eebd3ddcb9e6609ac71d2902476cb702979f[m
+Author: julianoborel <julianoborel@yahoo.com.br>
+Date:   Thu Feb 16 15:02:34 2023 -0300
+
+    Mapeamentos das Classes
+
+[33mcommit 6dda868da6ae1b9b828754891a924a76fce4c66b[m
+Author: julianoborel <julianoborel@yahoo.com.br>
+Date:   Wed Feb 15 17:19:00 2023 -0300
+
+    Criação das classes de dominio.
+
+[33mcommit 62cf6858a760df3ebb19f0abfe9dc8ddf7ac8a2e[m
+Author: julianoborel <julianoborel@yahoo.com.br>
+Date:   Wed Feb 15 16:52:13 2023 -0300
+
+    Criação dos tipos enumerados
+
+[33mcommit 32dfa73a9576d75183d62cd2ba29b64ccf63c32d[m
+Author: julianoborel <julianoborel@yahoo.com.br>
+Date:   Wed Feb 15 16:39:52 2023 -0300
+
+    projeto iniciado
